@@ -1,0 +1,13 @@
+{
+  "name": "az-launch",
+  "type": "module",
+  "bin": "./launch.js",
+  "dependencies": {
+    "aws-async-ec2": "^0.0.2",
+    "aws-async-ec2-instance": "^0.0.1",
+    "aws-async-route53": "^0.0.2",
+    "aws-async-route53-hosted-zone": "^0.0.1",
+    "aws-async-type": "^0.0.1",
+    "aws-sdk": "^2.1004.0"
+  }
+}
